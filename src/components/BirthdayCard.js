@@ -4,7 +4,7 @@
 import React, { useEffect } from 'react';
 import './BirthdayCard.css';
 
-import image from "../components/images/petals.jpeg"
+import image from "../components/images/petals-removebg-preview.png"
 
 const BirthdayCard = ({ name, imageUrl }) => {
   const attributesLeft = {
